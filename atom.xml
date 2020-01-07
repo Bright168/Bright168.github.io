@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-01-06T16:29:55.040Z</updated>
+    <updated>2020-01-07T16:44:55.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,20 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-01-07 市净率]]></title>
+        <id>https://blog.bright168.win/post/Ai3cUQqTI</id>
+        <link href="https://blog.bright168.win/post/Ai3cUQqTI">
+        </link>
+        <updated>2020-01-07T14:42:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>大科技板块本身的整体市净率就高<br>
+所以选股的时候可以适当不考虑</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>大科技板块本身的整体市净率就高<br>
+所以选股的时候可以适当不考虑</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-01-06 板块]]></title>
         <id>https://blog.bright168.win/post/plf7T1OWJ</id>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-01-08T16:33:48.900Z</updated>
+    <updated>2020-01-09T16:47:06.105Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -11,7 +11,23 @@
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
     <entry>
-        <title type="html"><![CDATA[2020-01-08 市净率]]></title>
+        <title type="html"><![CDATA[2020-01-09 启动]]></title>
+        <id>https://blog.bright168.win/post/288YtFJOG</id>
+        <link href="https://blog.bright168.win/post/288YtFJOG">
+        </link>
+        <updated>2020-01-09T12:45:51.000Z</updated>
+        <summary type="html"><![CDATA[<p>汽车板块已经启动了<br>
+房地产板块有动作<br>
+考虑要不要换掉化工</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>汽车板块已经启动了<br>
+房地产板块有动作<br>
+考虑要不要换掉化工</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-01-08 轮动]]></title>
         <id>https://blog.bright168.win/post/4pPExTjPx</id>
         <link href="https://blog.bright168.win/post/4pPExTjPx">
         </link>

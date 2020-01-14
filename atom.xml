@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-01-13T15:59:58.826Z</updated>
+    <updated>2020-01-14T13:08:22.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-01-13 医药]]></title>
+        <id>https://blog.bright168.win/post/dgIQyXIof</id>
+        <link href="https://blog.bright168.win/post/dgIQyXIof">
+        </link>
+        <updated>2020-01-14T13:07:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>大盘有回调可能<br>
+把汽车零部件换成了医药<br>
+未来还是得持有一个汽车相关的股票<br>
+尤其是新能源汽车<br>
+2020年很可能会大有起色</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>大盘有回调可能<br>
+把汽车零部件换成了医药<br>
+未来还是得持有一个汽车相关的股票<br>
+尤其是新能源汽车<br>
+2020年很可能会大有起色</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-01-13 中小盘]]></title>
         <id>https://blog.bright168.win/post/9yfSAr2ug</id>
@@ -166,15 +186,6 @@
 <p><a href="https://ding.youku.com/u/subscribeUpdate" title="优酷订阅">优酷订阅</a></p>
 <p><a href="https://st.h5.xiaoe-tech.com/st/7C8rehSBL" title="股票视频">股票视频</a></p>
 <!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[关于]]></title>
-        <id>https://blog.bright168.win/post/about</id>
-        <link href="https://blog.bright168.win/post/about">
-        </link>
-        <updated>2020-01-02T06:32:39.000Z</updated>
-        <content type="html"><![CDATA[<p>这是一个记录。</p>
 ]]></content>
     </entry>
 </feed>

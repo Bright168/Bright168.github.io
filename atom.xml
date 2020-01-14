@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-01-14T13:08:22.843Z</updated>
+    <updated>2020-01-14T13:10:50.326Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -173,19 +173,12 @@
 ]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[常用链接导航]]></title>
-        <id>https://blog.bright168.win/post/olbYLu8re</id>
-        <link href="https://blog.bright168.win/post/olbYLu8re">
+        <title type="html"><![CDATA[关于]]></title>
+        <id>https://blog.bright168.win/post/about</id>
+        <link href="https://blog.bright168.win/post/about">
         </link>
-        <updated>2020-01-02T07:12:51.000Z</updated>
-        <summary type="html"><![CDATA[<p><a href="https://docs.google.com/spreadsheets/d/1AhUEPNmFC2DssielMHK1mhBR5SfKZuSfz5K0Zomzc7Y/edit?usp=sharing" title="盘后记录">盘后记录</a></p>
-<p><a href="https://ding.youku.com/u/subscribeUpdate" title="优酷订阅">优酷订阅</a></p>
-<p><a href="https://st.h5.xiaoe-tech.com/st/7C8rehSBL" title="股票视频">股票视频</a></p>
-]]></summary>
-        <content type="html"><![CDATA[<p><a href="https://docs.google.com/spreadsheets/d/1AhUEPNmFC2DssielMHK1mhBR5SfKZuSfz5K0Zomzc7Y/edit?usp=sharing" title="盘后记录">盘后记录</a></p>
-<p><a href="https://ding.youku.com/u/subscribeUpdate" title="优酷订阅">优酷订阅</a></p>
-<p><a href="https://st.h5.xiaoe-tech.com/st/7C8rehSBL" title="股票视频">股票视频</a></p>
-<!-- more -->
+        <updated>2020-01-01T03:11:11.000Z</updated>
+        <content type="html"><![CDATA[<p>这是一个记录。</p>
 ]]></content>
     </entry>
 </feed>

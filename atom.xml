@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-01-14T13:10:50.326Z</updated>
+    <updated>2020-01-14T13:11:10.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
     <entry>
-        <title type="html"><![CDATA[2020-01-13 医药]]></title>
+        <title type="html"><![CDATA[2020-01-14 医药]]></title>
         <id>https://blog.bright168.win/post/dgIQyXIof</id>
         <link href="https://blog.bright168.win/post/dgIQyXIof">
         </link>

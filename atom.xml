@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-01-16T00:56:21.170Z</updated>
+    <updated>2020-01-17T02:40:21.361Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-01-16 要反弹]]></title>
+        <id>https://blog.bright168.win/post/GQmZlN62R</id>
+        <link href="https://blog.bright168.win/post/GQmZlN62R">
+        </link>
+        <updated>2020-01-16T12:39:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>已经 有一天下跌<br>
+再下跌主力也靠不住了<br>
+下跌过的得涨涨了<br>
+一直没跌的也得跌跌了</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>已经 有一天下跌<br>
+再下跌主力也靠不住了<br>
+下跌过的得涨涨了<br>
+一直没跌的也得跌跌了</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-01-15 调整]]></title>
         <id>https://blog.bright168.win/post/4hpt_HIvl</id>
@@ -171,24 +189,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>热点地图很有用。<br>
 低位筹码密集还不够，需要增加翻牛信号。</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-01-03 盘面]]></title>
-        <id>https://blog.bright168.win/post/MFa65g6TK</id>
-        <link href="https://blog.bright168.win/post/MFa65g6TK">
-        </link>
-        <updated>2020-01-03T08:07:36.000Z</updated>
-        <summary type="html"><![CDATA[<p>盘后抛压减小<br>
-上午振荡，传媒、通讯、石油稳住大盘。<br>
-下午计算机回升，传媒未有明显动作，农业版块全天较猛。<br>
-感觉大盘上涨突破是证券银行发力，振荡的时候计算机版块非常活跃。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>盘后抛压减小<br>
-上午振荡，传媒、通讯、石油稳住大盘。<br>
-下午计算机回升，传媒未有明显动作，农业版块全天较猛。<br>
-感觉大盘上涨突破是证券银行发力，振荡的时候计算机版块非常活跃。</p>
 <!-- more -->
 ]]></content>
     </entry>

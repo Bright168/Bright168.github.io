@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-01-17T02:42:40.969Z</updated>
+    <updated>2020-01-17T10:10:01.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-01-17 第四天]]></title>
+        <id>https://blog.bright168.win/post/NvViunvBC</id>
+        <link href="https://blog.bright168.win/post/NvViunvBC">
+        </link>
+        <updated>2020-01-17T10:09:05.000Z</updated>
+        <summary type="html"><![CDATA[<p>已经第四天了<br>
+一个像样的反弹都没有<br>
+不太敢相信啊<br>
+还有一周过年</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>已经第四天了<br>
+一个像样的反弹都没有<br>
+不太敢相信啊<br>
+还有一周过年</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-01-16 要反弹]]></title>
         <id>https://blog.bright168.win/post/GQmZlN62R</id>
@@ -175,20 +193,6 @@
 应该会出现在牛市的中后期。<br>
 中药板块在吃老本，无研发高收益的情况可能会结束。<br>
 医药板块必须以做长线的思路进行操作。</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-01-05 学习]]></title>
-        <id>https://blog.bright168.win/post/RQnEeIIEy</id>
-        <link href="https://blog.bright168.win/post/RQnEeIIEy">
-        </link>
-        <updated>2020-01-05T07:24:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>热点地图很有用。<br>
-低位筹码密集还不够，需要增加翻牛信号。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>热点地图很有用。<br>
-低位筹码密集还不够，需要增加翻牛信号。</p>
 <!-- more -->
 ]]></content>
     </entry>

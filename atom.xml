@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-01-17T02:40:21.361Z</updated>
+    <updated>2020-01-17T02:42:40.969Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -16,15 +16,15 @@
         <link href="https://blog.bright168.win/post/GQmZlN62R">
         </link>
         <updated>2020-01-16T12:39:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>已经 有一天下跌<br>
+        <summary type="html"><![CDATA[<p>已经下跌三天了<br>
 再下跌主力也靠不住了<br>
-下跌过的得涨涨了<br>
-一直没跌的也得跌跌了</p>
+跌过的得涨涨了<br>
+没跌的也得跌跌了</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>已经 有一天下跌<br>
+        <content type="html"><![CDATA[<p>已经下跌三天了<br>
 再下跌主力也靠不住了<br>
-下跌过的得涨涨了<br>
-一直没跌的也得跌跌了</p>
+跌过的得涨涨了<br>
+没跌的也得跌跌了</p>
 <!-- more -->
 ]]></content>
     </entry>

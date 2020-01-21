@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-01-21T00:54:24.142Z</updated>
+    <updated>2020-01-21T13:48:10.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-01-21 回补]]></title>
+        <id>https://blog.bright168.win/post/A1OAIYgQT</id>
+        <link href="https://blog.bright168.win/post/A1OAIYgQT">
+        </link>
+        <updated>2020-01-21T13:46:23.000Z</updated>
+        <summary type="html"><![CDATA[<p>终于回补的缺口<br>
+而且还是带量的<br>
+但是持仓却创了新高<br>
+疑虑是否要动<br>
+未来还会是半导体和电子元器件</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>终于回补的缺口<br>
+而且还是带量的<br>
+但是持仓却创了新高<br>
+疑虑是否要动<br>
+未来还会是半导体和电子元器件</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-01-20 反弹]]></title>
         <id>https://blog.bright168.win/post/N4JZnzVZq</id>
@@ -177,24 +197,6 @@
 建立了一个基本面较好的股票池<br>
 准备抓股票轮动<br>
 每次轮动有可能在十天左右</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-01-07 市净率]]></title>
-        <id>https://blog.bright168.win/post/Ai3cUQqTI</id>
-        <link href="https://blog.bright168.win/post/Ai3cUQqTI">
-        </link>
-        <updated>2020-01-07T14:42:04.000Z</updated>
-        <summary type="html"><![CDATA[<p>大科技板块本身的整体市净率就高<br>
-所以选股的时候可以适当不考虑<br>
-在市场回调再次启动的时候<br>
-需要及时确认并跟进热点板块</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>大科技板块本身的整体市净率就高<br>
-所以选股的时候可以适当不考虑<br>
-在市场回调再次启动的时候<br>
-需要及时确认并跟进热点板块</p>
 <!-- more -->
 ]]></content>
     </entry>

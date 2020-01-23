@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-01-21T13:48:10.738Z</updated>
+    <updated>2020-01-23T15:10:16.866Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,40 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-01-23 恐慌]]></title>
+        <id>https://blog.bright168.win/post/kqhNYRQfY</id>
+        <link href="https://blog.bright168.win/post/kqhNYRQfY">
+        </link>
+        <updated>2020-01-23T15:08:08.000Z</updated>
+        <summary type="html"><![CDATA[<p>大盘急跌很恐慌<br>
+甚至有点非理性<br>
+感觉跌到位了<br>
+收益日间创了新高</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>大盘急跌很恐慌<br>
+甚至有点非理性<br>
+感觉跌到位了<br>
+收益日间创了新高</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-01-22 加仓]]></title>
+        <id>https://blog.bright168.win/post/4z_bRwwg-</id>
+        <link href="https://blog.bright168.win/post/4z_bRwwg-">
+        </link>
+        <updated>2020-01-22T15:02:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>基金大量加仓<br>
+大盘逆转翻红<br>
+好像要起来了</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>基金大量加仓<br>
+大盘逆转翻红<br>
+好像要起来了</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-01-21 回补]]></title>
         <id>https://blog.bright168.win/post/A1OAIYgQT</id>
@@ -163,40 +197,6 @@
 地产也稍微有启动迹象<br>
 龙头股已经有所动作<br>
 板块级别的轮动有可能会发生</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-01-09 启动]]></title>
-        <id>https://blog.bright168.win/post/288YtFJOG</id>
-        <link href="https://blog.bright168.win/post/288YtFJOG">
-        </link>
-        <updated>2020-01-09T12:45:51.000Z</updated>
-        <summary type="html"><![CDATA[<p>汽车板块已经启动了<br>
-房地产板块有动作<br>
-考虑要不要换掉化工</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>汽车板块已经启动了<br>
-房地产板块有动作<br>
-考虑要不要换掉化工</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-01-08 轮动]]></title>
-        <id>https://blog.bright168.win/post/4pPExTjPx</id>
-        <link href="https://blog.bright168.win/post/4pPExTjPx">
-        </link>
-        <updated>2020-01-08T12:26:35.000Z</updated>
-        <summary type="html"><![CDATA[<p>大盘应该是采取轮动上涨的慢头模式<br>
-建立了一个基本面较好的股票池<br>
-准备抓股票轮动<br>
-每次轮动有可能在十天左右</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>大盘应该是采取轮动上涨的慢头模式<br>
-建立了一个基本面较好的股票池<br>
-准备抓股票轮动<br>
-每次轮动有可能在十天左右</p>
 <!-- more -->
 ]]></content>
     </entry>

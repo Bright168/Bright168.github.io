@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-01-23T15:10:16.866Z</updated>
+    <updated>2020-02-03T13:08:27.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-02-93 黑天鹅]]></title>
+        <id>https://blog.bright168.win/post/UBsGxFGZk</id>
+        <link href="https://blog.bright168.win/post/UBsGxFGZk">
+        </link>
+        <updated>2020-02-03T13:07:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>跌停的看都不用看<br>
+因为卖不出去<br>
+涨停的反而难受<br>
+因为不知道要不要跑</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>跌停的看都不用看<br>
+因为卖不出去<br>
+涨停的反而难受<br>
+因为不知道要不要跑</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-01-23 恐慌]]></title>
         <id>https://blog.bright168.win/post/kqhNYRQfY</id>
@@ -179,24 +197,6 @@
 感觉有点卖错了<br>
 好在仓位不大<br>
 拿来练习吧</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-01-10 汽车和地产]]></title>
-        <id>https://blog.bright168.win/post/8vrUNFQDB</id>
-        <link href="https://blog.bright168.win/post/8vrUNFQDB">
-        </link>
-        <updated>2020-01-10T09:37:40.000Z</updated>
-        <summary type="html"><![CDATA[<p>汽车板块有资金小量进入已经两天了<br>
-地产也稍微有启动迹象<br>
-龙头股已经有所动作<br>
-板块级别的轮动有可能会发生</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>汽车板块有资金小量进入已经两天了<br>
-地产也稍微有启动迹象<br>
-龙头股已经有所动作<br>
-板块级别的轮动有可能会发生</p>
 <!-- more -->
 ]]></content>
     </entry>

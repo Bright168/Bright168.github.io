@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-02-05T14:56:39.823Z</updated>
+    <updated>2020-02-07T05:50:26.093Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-02-06 拉一把]]></title>
+        <id>https://blog.bright168.win/post/bPcXTD91c</id>
+        <link href="https://blog.bright168.win/post/bPcXTD91c">
+        </link>
+        <updated>2020-02-06T11:49:13.000Z</updated>
+        <summary type="html"><![CDATA[<p>已经上长了不少了<br>
+科技型基金都已经回本<br>
+既然已经看出哪个才是真正的好股票<br>
+那就应该要开始换股了</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>已经上长了不少了<br>
+科技型基金都已经回本<br>
+既然已经看出哪个才是真正的好股票<br>
+那就应该要开始换股了</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-02-05 现形]]></title>
         <id>https://blog.bright168.win/post/FIDLaFRjM</id>
@@ -171,26 +189,6 @@
 再下跌主力也靠不住了<br>
 跌过的得涨涨了<br>
 没跌的也得跌跌了</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-01-15 调整]]></title>
-        <id>https://blog.bright168.win/post/4hpt_HIvl</id>
-        <link href="https://blog.bright168.win/post/4hpt_HIvl">
-        </link>
-        <updated>2020-01-15T10:54:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>大盘直接下调<br>
-换出了很多人<br>
-出的人肯定是前期获利的<br>
-跑一部分也好<br>
-还会回来的</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>大盘直接下调<br>
-换出了很多人<br>
-出的人肯定是前期获利的<br>
-跑一部分也好<br>
-还会回来的</p>
 <!-- more -->
 ]]></content>
     </entry>

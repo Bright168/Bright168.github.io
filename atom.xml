@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-02-07T11:56:34.602Z</updated>
+    <updated>2020-02-08T13:11:21.595Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-02-07 倒腾]]></title>
+        <id>https://blog.bright168.win/post/IgOGoBVd2</id>
+        <link href="https://blog.bright168.win/post/IgOGoBVd2">
+        </link>
+        <updated>2020-02-07T13:09:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>应该是开始倒完货了<br>
+好的依旧很好<br>
+不够好的被放弃了<br>
+目前没有足够的理由下跌</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>应该是开始倒完货了<br>
+好的依旧很好<br>
+不够好的被放弃了<br>
+目前没有足够的理由下跌</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-02-06 拉一把]]></title>
         <id>https://blog.bright168.win/post/bPcXTD91c</id>
@@ -171,24 +189,6 @@
 一个像样的反弹都没有<br>
 不太敢相信啊<br>
 还有一周过年</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-01-16 要反弹]]></title>
-        <id>https://blog.bright168.win/post/GQmZlN62R</id>
-        <link href="https://blog.bright168.win/post/GQmZlN62R">
-        </link>
-        <updated>2020-01-16T12:39:12.000Z</updated>
-        <summary type="html"><![CDATA[<p>已经下跌三天了<br>
-再下跌主力也靠不住了<br>
-跌过的得涨涨了<br>
-没跌的也得跌跌了</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>已经下跌三天了<br>
-再下跌主力也靠不住了<br>
-跌过的得涨涨了<br>
-没跌的也得跌跌了</p>
 <!-- more -->
 ]]></content>
     </entry>

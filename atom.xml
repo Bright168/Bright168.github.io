@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-02-08T13:11:21.595Z</updated>
+    <updated>2020-02-12T00:55:19.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,42 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-02-11 衰竭]]></title>
+        <id>https://blog.bright168.win/post/FIWZYjHNG</id>
+        <link href="https://blog.bright168.win/post/FIWZYjHNG">
+        </link>
+        <updated>2020-02-11T09:54:03.000Z</updated>
+        <summary type="html"><![CDATA[<p>强势的彻底不动了<br>
+蓝筹有动的迹象<br>
+考虑要不要换一下<br>
+犹豫</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>强势的彻底不动了<br>
+蓝筹有动的迹象<br>
+考虑要不要换一下<br>
+犹豫</p>
+<!-- more -->
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2020-02-10 轮换]]></title>
+        <id>https://blog.bright168.win/post/GFOwb-dZb</id>
+        <link href="https://blog.bright168.win/post/GFOwb-dZb">
+        </link>
+        <updated>2020-02-10T08:52:41.000Z</updated>
+        <summary type="html"><![CDATA[<p>果然有点轮换的意思了<br>
+医药不太行了<br>
+强势的也不再涨了<br>
+有一些跌下去没动的开始涨了</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>果然有点轮换的意思了<br>
+医药不太行了<br>
+强势的也不再涨了<br>
+有一些跌下去没动的开始涨了</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-02-07 倒腾]]></title>
         <id>https://blog.bright168.win/post/IgOGoBVd2</id>
@@ -151,44 +187,6 @@
 但是持仓却创了新高<br>
 疑虑是否要动<br>
 未来还会是半导体和电子元器件</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-01-20 反弹]]></title>
-        <id>https://blog.bright168.win/post/N4JZnzVZq</id>
-        <link href="https://blog.bright168.win/post/N4JZnzVZq">
-        </link>
-        <updated>2020-01-20T14:53:11.000Z</updated>
-        <summary type="html"><![CDATA[<p>像上次一样<br>
-四个阴线后一个阳线<br>
-只一个小阳线<br>
-所有的回调都已经恢复<br>
-说明股票没有买错</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>像上次一样<br>
-四个阴线后一个阳线<br>
-只一个小阳线<br>
-所有的回调都已经恢复<br>
-说明股票没有买错</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-01-17 第四天]]></title>
-        <id>https://blog.bright168.win/post/NvViunvBC</id>
-        <link href="https://blog.bright168.win/post/NvViunvBC">
-        </link>
-        <updated>2020-01-17T10:09:05.000Z</updated>
-        <summary type="html"><![CDATA[<p>已经第四天了<br>
-一个像样的反弹都没有<br>
-不太敢相信啊<br>
-还有一周过年</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>已经第四天了<br>
-一个像样的反弹都没有<br>
-不太敢相信啊<br>
-还有一周过年</p>
 <!-- more -->
 ]]></content>
     </entry>

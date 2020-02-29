@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-02-27T12:12:49.341Z</updated>
+    <updated>2020-02-29T15:29:18.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-02-28 恐慌]]></title>
+        <id>https://blog.bright168.win/post/if0l983L4/</id>
+        <link href="https://blog.bright168.win/post/if0l983L4/">
+        </link>
+        <updated>2020-02-28T15:27:50.000Z</updated>
+        <summary type="html"><![CDATA[<p>再一次的恐慌<br>
+强势股的回调<br>
+获利盘的杀出<br>
+外围市场的影响<br>
+一起都来了</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>再一次的恐慌<br>
+强势股的回调<br>
+获利盘的杀出<br>
+外围市场的影响<br>
+一起都来了</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-02-27 继续调整]]></title>
         <id>https://blog.bright168.win/post/h37_jaXCw/</id>
@@ -175,26 +195,6 @@
 在一个关键时间点<br>
 管理层放出了各种利好<br>
 意图再为明显不过</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-02-14 吃货]]></title>
-        <id>https://blog.bright168.win/post/WjHaDHOML/</id>
-        <link href="https://blog.bright168.win/post/WjHaDHOML/">
-        </link>
-        <updated>2020-02-14T13:07:04.000Z</updated>
-        <summary type="html"><![CDATA[<p>有人在抢<br>
-轮换已经接近完成<br>
-新的起点就要开始<br>
-感觉得动一下了<br>
-再不动要黄粱一梦了</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>有人在抢<br>
-轮换已经接近完成<br>
-新的起点就要开始<br>
-感觉得动一下了<br>
-再不动要黄粱一梦了</p>
 <!-- more -->
 ]]></content>
     </entry>

@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-03-02T17:26:46.573Z</updated>
+    <updated>2020-03-03T17:00:00.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-03-03 振荡]]></title>
+        <id>https://blog.bright168.win/post/f6ySS26nx/</id>
+        <link href="https://blog.bright168.win/post/f6ySS26nx/">
+        </link>
+        <updated>2020-03-03T08:59:01.000Z</updated>
+        <summary type="html"><![CDATA[<p>高位振荡一天<br>
+市场继续活跃起来<br>
+是走是留<br>
+各有所图</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>高位振荡一天<br>
+市场继续活跃起来<br>
+是走是留<br>
+各有所图</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-03-02 反转]]></title>
         <id>https://blog.bright168.win/post/pYtMaj7Y4/</id>
@@ -177,24 +195,6 @@
 也是刺激的一天<br>
 变盘时间越来越近了<br>
 期待</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-02-18 强势]]></title>
-        <id>https://blog.bright168.win/post/nIKIPS4wx/</id>
-        <link href="https://blog.bright168.win/post/nIKIPS4wx/">
-        </link>
-        <updated>2020-02-18T10:24:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>强势整理，分化明显<br>
-量能持续，牛市特征<br>
-得考虑赛道问题了<br>
-要不要集中一下。</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>强势整理，分化明显<br>
-量能持续，牛市特征<br>
-得考虑赛道问题了<br>
-要不要集中一下。</p>
 <!-- more -->
 ]]></content>
     </entry>

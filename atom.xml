@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-04-09T16:20:21.030Z</updated>
+    <updated>2020-05-13T09:27:06.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-05-13 空空空]]></title>
+        <id>https://blog.bright168.win/post/pIKCvN3Um/</id>
+        <link href="https://blog.bright168.win/post/pIKCvN3Um/">
+        </link>
+        <updated>2020-05-13T09:25:53.000Z</updated>
+        <summary type="html"><![CDATA[<p>一直不出做多信号<br>
+一直是空头状态<br>
+估计还要等一阵子</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一直不出做多信号<br>
+一直是空头状态<br>
+估计还要等一阵子</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-04-09 空间]]></title>
         <id>https://blog.bright168.win/post/1snoCqxSv/</id>
@@ -145,20 +161,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>有点顶不住了<br>
 更多的人要动摇了</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-03-11 要完]]></title>
-        <id>https://blog.bright168.win/post/f1WFPLimI/</id>
-        <link href="https://blog.bright168.win/post/f1WFPLimI/">
-        </link>
-        <updated>2020-03-11T08:02:18.000Z</updated>
-        <summary type="html"><![CDATA[<p>套住了一半<br>
-还差一半</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>套住了一半<br>
-还差一半</p>
 <!-- more -->
 ]]></content>
     </entry>

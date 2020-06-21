@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-06-21T14:29:06.729Z</updated>
+    <updated>2020-06-21T14:44:35.344Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,26 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-06-19 犹豫中上涨]]></title>
+        <id>https://blog.bright168.win/post/AILa9vqbz/</id>
+        <link href="https://blog.bright168.win/post/AILa9vqbz/">
+        </link>
+        <updated>2020-06-19T14:27:09.000Z</updated>
+        <summary type="html"><![CDATA[<p>资金在进<br>
+马上到3000了<br>
+大盘在犹豫<br>
+个股飞上天<br>
+考验功力的时候到了</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>资金在进<br>
+马上到3000了<br>
+大盘在犹豫<br>
+个股飞上天<br>
+考验功力的时候到了</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-05-30 一直没机会]]></title>
         <id>https://blog.bright168.win/post/wDk1ub7jF/</id>
@@ -141,24 +161,6 @@
 要完蛋<br>
 量不是很小<br>
 资金出的太多</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-03-13 逆转]]></title>
-        <id>https://blog.bright168.win/post/tOfboyXaS/</id>
-        <link href="https://blog.bright168.win/post/tOfboyXaS/">
-        </link>
-        <updated>2020-03-13T12:02:53.000Z</updated>
-        <summary type="html"><![CDATA[<p>直接一步到位了<br>
-反转力度其实不大<br>
-更多的人在跑路<br>
-等消息吧</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>直接一步到位了<br>
-反转力度其实不大<br>
-更多的人在跑路<br>
-等消息吧</p>
 <!-- more -->
 ]]></content>
     </entry>

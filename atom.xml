@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-06-21T14:44:35.344Z</updated>
+    <updated>2020-07-13T14:41:23.136Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-07-13 时间太快]]></title>
+        <id>https://blog.bright168.win/post/ohOGFc0HP/</id>
+        <link href="https://blog.bright168.win/post/ohOGFc0HP/">
+        </link>
+        <updated>2020-07-13T14:40:31.000Z</updated>
+        <summary type="html"><![CDATA[<p>一旦开仓<br>
+就没有时间更新了<br>
+开仓了真好</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>一旦开仓<br>
+就没有时间更新了<br>
+开仓了真好</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-06-19 犹豫中上涨]]></title>
         <id>https://blog.bright168.win/post/AILa9vqbz/</id>
@@ -143,24 +159,6 @@
 ]]></summary>
         <content type="html"><![CDATA[<p>流出的少了一点<br>
 但也没看到有起色</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-03-16 要完]]></title>
-        <id>https://blog.bright168.win/post/PieWY5Wsl/</id>
-        <link href="https://blog.bright168.win/post/PieWY5Wsl/">
-        </link>
-        <updated>2020-03-16T07:18:42.000Z</updated>
-        <summary type="html"><![CDATA[<p>阴包阳<br>
-要完蛋<br>
-量不是很小<br>
-资金出的太多</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>阴包阳<br>
-要完蛋<br>
-量不是很小<br>
-资金出的太多</p>
 <!-- more -->
 ]]></content>
     </entry>

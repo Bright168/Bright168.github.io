@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2020-08-27T08:12:26.002Z</updated>
+    <updated>2020-11-14T18:26:03.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2020, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2020-11-15 换个方向]]></title>
+        <id>https://blog.bright168.win/post/ra6DvRYlX/</id>
+        <link href="https://blog.bright168.win/post/ra6DvRYlX/">
+        </link>
+        <updated>2020-11-14T18:25:19.000Z</updated>
+        <summary type="html"><![CDATA[<p>开始研究缠论<br>
+可能有用<br>
+也可能没用<br>
+先试试</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>开始研究缠论<br>
+可能有用<br>
+也可能没用<br>
+先试试</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2020-08-27 重新布局]]></title>
         <id>https://blog.bright168.win/post/1WXzNYI2a/</id>
@@ -147,20 +165,6 @@
         <content type="html"><![CDATA[<p>又一个带影线的小阴线<br>
 资金继续出<br>
 到前期支撑了</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-03-18 没起色]]></title>
-        <id>https://blog.bright168.win/post/J8IYAkxhV/</id>
-        <link href="https://blog.bright168.win/post/J8IYAkxhV/">
-        </link>
-        <updated>2020-03-18T11:21:08.000Z</updated>
-        <summary type="html"><![CDATA[<p>基本玩完<br>
-强势的也快挺出住了</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>基本玩完<br>
-强势的也快挺出住了</p>
 <!-- more -->
 ]]></content>
     </entry>

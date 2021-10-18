@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2021-10-18T05:15:01.317Z</updated>
+    <updated>2021-10-18T05:17:15.418Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2021, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2021-10-18 又一次等待]]></title>
+        <id>https://blog.bright168.win/post/AaVepGR6o/</id>
+        <link href="https://blog.bright168.win/post/AaVepGR6o/">
+        </link>
+        <updated>2021-10-18T05:16:11.000Z</updated>
+        <summary type="html"><![CDATA[<p>估计快开始了。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>估计快开始了。</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-07-14 慢慢振荡]]></title>
         <id>https://blog.bright168.win/post/Pe5a7ObM7/</id>
@@ -151,22 +163,6 @@
         <content type="html"><![CDATA[<p>一直不出做多信号<br>
 一直是空头状态<br>
 估计还要等一阵子</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-04-09 空间]]></title>
-        <id>https://blog.bright168.win/post/1snoCqxSv/</id>
-        <link href="https://blog.bright168.win/post/1snoCqxSv/">
-        </link>
-        <updated>2020-04-09T11:19:20.000Z</updated>
-        <summary type="html"><![CDATA[<p>向上还有一点空间<br>
-感觉可以上去<br>
-还可以拿一阵子</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>向上还有一点空间<br>
-感觉可以上去<br>
-还可以拿一阵子</p>
 <!-- more -->
 ]]></content>
     </entry>

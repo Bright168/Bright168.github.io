@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2021-10-18T05:17:42.291Z</updated>
+    <updated>2021-10-18T05:18:44.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2021, 股票记录</rights>
     <entry>
-        <title type="html"><![CDATA[2021-10-18 又一次等待]]></title>
+        <title type="html"><![CDATA[2021-10-18 再次等待]]></title>
         <id>https://blog.bright168.win/post/AaVepGR6o/</id>
         <link href="https://blog.bright168.win/post/AaVepGR6o/">
         </link>

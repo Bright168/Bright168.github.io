@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2021-10-20T09:12:42.445Z</updated>
+    <updated>2021-12-08T07:42:49.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,24 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2021, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2021-12-08 史无前例]]></title>
+        <id>https://blog.bright168.win/post/_lv4KI0ap/</id>
+        <link href="https://blog.bright168.win/post/_lv4KI0ap/">
+        </link>
+        <updated>2021-12-08T07:40:46.000Z</updated>
+        <summary type="html"><![CDATA[<p>历史上还没有出现过活跃市值长期横盘的情况<br>
+这次非常特殊<br>
+要么巨变<br>
+要么失效</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>历史上还没有出现过活跃市值长期横盘的情况<br>
+这次非常特殊<br>
+要么巨变<br>
+要么失效</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-10-20 慢慢稳住]]></title>
         <id>https://blog.bright168.win/post/gGfNW2y-L/</id>
@@ -151,18 +169,6 @@
 大盘在犹豫<br>
 个股飞上天<br>
 考验功力的时候到了</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-05-30 一直没机会]]></title>
-        <id>https://blog.bright168.win/post/wDk1ub7jF/</id>
-        <link href="https://blog.bright168.win/post/wDk1ub7jF/">
-        </link>
-        <updated>2020-05-30T14:43:28.000Z</updated>
-        <summary type="html"><![CDATA[<p>继续等待</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>继续等待</p>
 <!-- more -->
 ]]></content>
     </entry>

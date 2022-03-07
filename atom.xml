@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://blog.bright168.win/</id>
     <title>股票记录</title>
-    <updated>2022-02-10T01:46:53.391Z</updated>
+    <updated>2022-03-07T05:06:19.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://blog.bright168.win/"/>
     <link rel="self" href="https://blog.bright168.win/atom.xml"/>
@@ -10,6 +10,22 @@
     <logo>https://blog.bright168.win/images/avatar.png</logo>
     <icon>https://blog.bright168.win/favicon.ico</icon>
     <rights>All rights reserved 2022, 股票记录</rights>
+    <entry>
+        <title type="html"><![CDATA[2022-03-07 机会]]></title>
+        <id>https://blog.bright168.win/post/icc4skwPA/</id>
+        <link href="https://blog.bright168.win/post/icc4skwPA/">
+        </link>
+        <updated>2022-03-07T05:05:12.000Z</updated>
+        <summary type="html"><![CDATA[<p>感觉机会来了。<br>
+少部分股票。<br>
+但是太少了。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>感觉机会来了。<br>
+少部分股票。<br>
+但是太少了。</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021-12-08 史无前例]]></title>
         <id>https://blog.bright168.win/post/_lv4KI0ap/</id>
@@ -149,26 +165,6 @@
         <content type="html"><![CDATA[<p>一旦开仓<br>
 就没有时间更新了<br>
 开仓了真好</p>
-<!-- more -->
-]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2020-06-19 犹豫中上涨]]></title>
-        <id>https://blog.bright168.win/post/AILa9vqbz/</id>
-        <link href="https://blog.bright168.win/post/AILa9vqbz/">
-        </link>
-        <updated>2020-06-19T14:27:09.000Z</updated>
-        <summary type="html"><![CDATA[<p>资金在进<br>
-马上到3000了<br>
-大盘在犹豫<br>
-个股飞上天<br>
-考验功力的时候到了</p>
-]]></summary>
-        <content type="html"><![CDATA[<p>资金在进<br>
-马上到3000了<br>
-大盘在犹豫<br>
-个股飞上天<br>
-考验功力的时候到了</p>
 <!-- more -->
 ]]></content>
     </entry>

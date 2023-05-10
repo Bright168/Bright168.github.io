@@ -88,7 +88,15 @@ cover:
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
     - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
+    - https://file.crazywong.com/gh/jerryc127/CDN@latest/cover/default_bg.png
+    - https://file.crazywong.com/gh/jerryc127/CDN@latest/cover/default_bg2.png
+    - https://file.crazywong.com/gh/jerryc127/CDN@latest/cover/default_bg3.png
 
+
+作者: Jerry
+連結: https://butterfly.js.org/posts/4aa8abbe/#%E6%96%87%E7%AB%A0%E5%B0%81%E9%9D%A2
+來源: Butterfly
+著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
   flink: /img/friend_404.gif

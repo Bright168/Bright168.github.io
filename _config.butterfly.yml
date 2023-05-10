@@ -87,10 +87,7 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-    - https://i.loli.net/2020/05/01/gkihqEjXxJ5UZ1C.jpg
-    - https://file.crazywong.com/gh/jerryc127/CDN@latest/cover/default_bg.png
-    - https://file.crazywong.com/gh/jerryc127/CDN@latest/cover/default_bg2.png
-    - https://file.crazywong.com/gh/jerryc127/CDN@latest/cover/default_bg3.png
+    - https://picsum.photos/536/354
 
 
 作者: Jerry

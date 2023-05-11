@@ -236,7 +236,7 @@ aside:
       link: https://github.com/Bright168/Bright168.github.io
   card_announcement:
     enable: true
-    content: This is my Blog
+    content: 空即是色，色即是空。
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all

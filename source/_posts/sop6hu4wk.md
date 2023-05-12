@@ -1,9 +1,8 @@
 ---
 title: 忍耐
-tags: []
+tags: "生活"
 id: '42'
-categories:
-  - - 记录
+categories: 记录
 comments: false
 date: 2022-12-06 16:48:24
 ---

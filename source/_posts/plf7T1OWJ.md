@@ -1,7 +1,8 @@
 ---
 title: '2020-01-06 板块'
 date: 2020-01-06 22:06:08
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

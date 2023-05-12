@@ -1,7 +1,8 @@
 ---
 title: '2020-02-03 黑天鹅'
 date: 2020-02-03 21:07:11
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

@@ -1,7 +1,8 @@
 ---
 title: '2020-03-17 挣扎'
 date: 2020-03-17 21:20:09
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

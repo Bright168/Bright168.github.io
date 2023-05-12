@@ -1,9 +1,8 @@
 ---
 title: 歧视
-tags: []
+tags: "生命"
 id: '22'
-categories:
-  - - 随想
+categories: 随想
 comments: false
 date: 2022-11-07 16:44:39
 ---

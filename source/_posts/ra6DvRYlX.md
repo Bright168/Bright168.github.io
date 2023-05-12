@@ -1,7 +1,8 @@
 ---
 title: '2020-11-15 换个方向'
 date: 2020-11-15 02:25:19
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

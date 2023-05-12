@@ -1,7 +1,7 @@
 ---
 title: 声音
 date: 2023-05-11 20:15:16
-tags: "沟通"
+tags: "生活"
 categories: "记录"
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: '2020-01-16 要反弹'
 date: 2020-01-16 20:39:12
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

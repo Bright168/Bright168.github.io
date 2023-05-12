@@ -1,9 +1,8 @@
 ---
 title: 圈养
-tags: []
+tags: "生命"
 id: '36'
-categories:
-  - - 随想
+categories: 随想
 comments: false
 date: 2022-11-25 18:03:35
 ---

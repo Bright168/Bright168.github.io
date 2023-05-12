@@ -1,7 +1,8 @@
 ---
 title: '2020-01-13 中小盘'
 date: 2020-01-13 21:34:26
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

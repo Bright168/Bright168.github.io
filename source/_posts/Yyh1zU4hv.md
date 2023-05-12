@@ -1,7 +1,8 @@
 ---
 title: '2020-03-04 假买点'
 date: 2020-03-04 15:20:29
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

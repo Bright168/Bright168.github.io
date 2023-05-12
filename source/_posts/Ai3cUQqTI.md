@@ -1,7 +1,8 @@
 ---
 title: '2020-01-07 市净率'
 date: 2020-01-07 22:42:04
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

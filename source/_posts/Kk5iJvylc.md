@@ -1,7 +1,8 @@
 ---
 title: '2020-02-26 振荡'
 date: 2020-02-26 17:10:05
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

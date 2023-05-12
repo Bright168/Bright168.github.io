@@ -1,9 +1,8 @@
 ---
 title: 构图
-tags: []
+tags: "生活"
 id: '30'
-categories:
-  - - 记录
+categories: 记录
 comments: false
 date: 2022-11-12 12:20:31
 ---

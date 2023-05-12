@@ -1,7 +1,8 @@
 ---
 title: '2020-01-14 医药'
 date: 2020-01-14 21:07:13
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

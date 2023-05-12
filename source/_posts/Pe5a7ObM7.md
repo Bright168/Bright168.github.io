@@ -1,7 +1,8 @@
 ---
 title: '2021-07-14 慢慢振荡'
 date: 2021-07-14 14:59:43
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

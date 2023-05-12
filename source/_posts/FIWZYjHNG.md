@@ -1,7 +1,8 @@
 ---
 title: '2020-02-11 衰竭'
 date: 2020-02-11 17:54:03
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

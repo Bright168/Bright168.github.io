@@ -1,9 +1,8 @@
 ---
 title: 慈悲
-tags: []
+tags: "生命"
 id: '39'
-categories:
-  - - 随想
+categories: 随想
 comments: false
 date: 2022-12-02 17:36:48
 ---

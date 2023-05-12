@@ -1,9 +1,8 @@
 ---
 title: 开始
-tags: []
+tags: "生活"
 id: '44'
-categories:
-  - - 记录
+categories: 记录
 comments: false
 date: 2023-01-04 14:40:18
 ---

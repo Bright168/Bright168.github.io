@@ -1,7 +1,8 @@
 ---
 title: '2020-01-10 汽车和地产'
 date: 2020-01-10 17:37:40
-tags: []
+tags: "大盘"
+categories: "投资"
 published: true
 hideInList: false
 feature: 

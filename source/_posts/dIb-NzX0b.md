@@ -1,7 +1,7 @@
 ---
 title: '2020-02-12 顶一下'
 date: 2020-02-12 19:04:47
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

@@ -1,6 +1,6 @@
 ---
 title: 学习
-tags: "生活"
+tags: ["生活"]
 id: '28'
 categories: 随想
 comments: false

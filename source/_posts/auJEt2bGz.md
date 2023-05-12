@@ -1,7 +1,7 @@
 ---
 title: '2020-02-21 稳住'
 date: 2020-02-21 17:47:37
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

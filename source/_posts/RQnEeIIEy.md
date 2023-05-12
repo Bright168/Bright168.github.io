@@ -1,7 +1,7 @@
 ---
 title: '2020-01-05 学习'
 date: 2020-01-05 15:24:53
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

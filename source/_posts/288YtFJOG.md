@@ -1,7 +1,7 @@
 ---
 title: '2020-01-09 启动'
 date: 2020-01-09 20:45:51
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

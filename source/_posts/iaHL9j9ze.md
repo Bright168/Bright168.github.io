@@ -1,7 +1,7 @@
 ---
 title: '2020-02-19 犹豫'
 date: 2020-02-19 15:52:01
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

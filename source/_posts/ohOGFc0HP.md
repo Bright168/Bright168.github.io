@@ -1,7 +1,7 @@
 ---
 title: '2020-07-13 时间太快'
 date: 2020-07-13 22:40:31
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

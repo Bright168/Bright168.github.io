@@ -1,7 +1,7 @@
 ---
 title: '2020-03-10 维持'
 date: 2020-03-10 19:58:57
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

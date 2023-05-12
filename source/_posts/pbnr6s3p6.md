@@ -1,6 +1,6 @@
 ---
 title: 错误
-tags: "生活"
+tags: ["生活"]
 id: '32'
 categories: 随想
 comments: false

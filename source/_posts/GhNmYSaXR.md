@@ -1,7 +1,7 @@
 ---
 title: '2020-03-23 套住'
 date: 2020-03-23 20:25:03
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

@@ -1,7 +1,7 @@
 ---
 title: '2023-05-12 果然'
 date: 2023-05-12 15:51:06
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

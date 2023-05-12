@@ -1,7 +1,7 @@
 ---
 title: '常用链接导航'
 date: 2020-01-01 11:11:11
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

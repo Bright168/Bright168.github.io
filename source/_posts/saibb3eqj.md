@@ -1,6 +1,6 @@
 ---
 title: 奔波
-tags: "生活"
+tags: ["生活"]
 id: '49'
 categories: 记录
 comments: false

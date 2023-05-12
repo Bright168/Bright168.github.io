@@ -1,7 +1,7 @@
 ---
 title: '2020-02-24 明确'
 date: 2020-02-24 23:48:21
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

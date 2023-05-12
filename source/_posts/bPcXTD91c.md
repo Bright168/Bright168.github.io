@@ -1,7 +1,7 @@
 ---
 title: '2020-02-06 拉一把'
 date: 2020-02-06 19:49:13
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

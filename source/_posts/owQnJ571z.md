@@ -1,7 +1,7 @@
 ---
 title: '2020-02-20 突破'
 date: 2020-02-20 15:53:02
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

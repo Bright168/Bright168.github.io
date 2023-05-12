@@ -1,7 +1,7 @@
 ---
 title: '2020-01-08 轮动'
 date: 2020-01-08 20:26:35
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

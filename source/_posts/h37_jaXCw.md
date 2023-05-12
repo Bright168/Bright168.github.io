@@ -1,7 +1,7 @@
 ---
 title: '2020-02-27 继续调整'
 date: 2020-02-27 20:11:45
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

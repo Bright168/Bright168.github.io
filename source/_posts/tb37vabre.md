@@ -1,6 +1,6 @@
 ---
 title: 开始
-tags: "生活"
+tags: ["生活"]
 id: '44'
 categories: 记录
 comments: false

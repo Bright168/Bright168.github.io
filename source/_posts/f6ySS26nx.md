@@ -1,7 +1,7 @@
 ---
 title: '2020-03-03 振荡'
 date: 2020-03-03 16:59:01
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

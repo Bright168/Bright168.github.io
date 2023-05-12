@@ -1,7 +1,7 @@
 ---
 title: '2020-01-17 第四天'
 date: 2020-01-17 18:09:05
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

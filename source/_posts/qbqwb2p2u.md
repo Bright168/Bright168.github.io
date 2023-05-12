@@ -1,6 +1,6 @@
 ---
 title: 永恒
-tags: "生命"
+tags: ["生命"]
 id: '26'
 categories: 哲学
 comments: false

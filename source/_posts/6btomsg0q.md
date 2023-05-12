@@ -1,6 +1,6 @@
 ---
 title: 静默
-tags: "生活"
+tags: ["生活"]
 id: '34'
 categories: 随想
 comments: false

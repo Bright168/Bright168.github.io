@@ -1,7 +1,7 @@
 ---
 title: '2020-01-20 反弹'
 date: 2020-01-20 22:53:11
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

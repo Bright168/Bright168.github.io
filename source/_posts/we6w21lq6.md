@@ -1,6 +1,6 @@
 ---
 title: 慈悲
-tags: "生命"
+tags: ["生命"]
 id: '39'
 categories: 随想
 comments: false

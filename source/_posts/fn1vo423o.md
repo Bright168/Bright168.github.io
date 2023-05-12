@@ -1,6 +1,6 @@
 ---
 title: 圈养
-tags: "生命"
+tags: ["生命"]
 id: '36'
 categories: 随想
 comments: false

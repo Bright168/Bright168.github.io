@@ -1,7 +1,7 @@
 ---
 title: '2020-02-18 强势'
 date: 2020-02-18 18:24:28
-tags: "大盘"
+tags: ["大盘"]
 categories: "投资"
 published: true
 hideInList: false

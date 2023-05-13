@@ -2,10 +2,13 @@
   class_desc: 那些人，那些事
   link_list:
     - name: Hexo
-      link: https://hexo.io/zh-tw/
+      link: https://hexo.io/zh-cn/
       avatar: /images/other/hexo_logo.svg
       descr: 快速、簡單且強大的網誌框架
-
+    - name: butterfly
+      link: https://butterfly.js.org/
+      avatar: /images/other/hexo_logo.svg
+      descr: 快速、簡單且強大的網誌框架
 - class_name: 網站
   class_desc: 值得推薦的網站
   link_list:

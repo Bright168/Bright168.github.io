@@ -1,8 +1,10 @@
 ---
 title: 声音
+tags:
+  - 生活
+categories: 记录
+abbrlink: df3c1f82
 date: 2023-05-11 20:15:16
-tags: ["生活"]
-categories: "记录"
 ---
 
 声音的大小很重要，声音影响人的思考。

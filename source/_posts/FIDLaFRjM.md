@@ -1,12 +1,14 @@
 ---
-title: '2020-02-05 现形'
-date: 2020-02-05 15:18:39
-tags: ["大盘"]
-categories: "投资"
+title: 2020-02-05 现形
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: c2ce73a6
+date: 2020-02-05 15:18:39
+feature:
 ---
 好与坏
 平时看不出来

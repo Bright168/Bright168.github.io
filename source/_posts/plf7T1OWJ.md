@@ -1,12 +1,14 @@
 ---
-title: '2020-01-06 板块'
-date: 2020-01-06 22:06:08
-tags: ["大盘"]
-categories: "投资"
+title: 2020-01-06 板块
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: a2ebdc64
+date: 2020-01-06 22:06:08
+feature:
 ---
 煤炭板块上涨的时候，应该就是没有什么时候好炒的时候了。
 应该会出现在牛市的中后期。

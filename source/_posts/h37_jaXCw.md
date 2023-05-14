@@ -1,12 +1,14 @@
 ---
-title: '2020-02-27 继续调整'
-date: 2020-02-27 20:11:45
-tags: ["大盘"]
-categories: "投资"
+title: 2020-02-27 继续调整
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: 775366b9
+date: 2020-02-27 20:11:45
+feature:
 ---
 缩量调整
 但有一些已经不再下探

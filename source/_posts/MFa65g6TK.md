@@ -1,12 +1,14 @@
 ---
-title: '2020-01-03 盘面'
-date: 2020-01-03 16:07:36
-tags: ["大盘"]
-categories: "投资"
+title: 2020-01-03 盘面
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: cc5b5ec5
+date: 2020-01-03 16:07:36
+feature:
 ---
 盘后抛压减小
 上午振荡，传媒、通讯、石油稳住大盘。

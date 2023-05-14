@@ -1,12 +1,14 @@
 ---
-title: '2020-01-08 轮动'
-date: 2020-01-08 20:26:35
-tags: ["大盘"]
-categories: "投资"
+title: 2020-01-08 轮动
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: 17ea1973
+date: 2020-01-08 20:26:35
+feature:
 ---
 大盘应该是采取轮动上涨的慢头模式
 建立了一个基本面较好的股票池

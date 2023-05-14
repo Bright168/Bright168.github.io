@@ -1,9 +1,11 @@
 ---
 title: 永恒
-tags: ["生命"]
+tags:
+  - 生命
 id: '26'
 categories: 哲学
 comments: false
+abbrlink: 2828c02d
 date: 2022-11-09 14:26:18
 ---
 

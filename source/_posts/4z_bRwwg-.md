@@ -1,12 +1,14 @@
 ---
-title: '2020-01-22 加仓'
-date: 2020-01-22 23:02:19
-tags: ["大盘"]
-categories: "投资"
+title: 2020-01-22 加仓
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: 9108a9e7
+date: 2020-01-22 23:02:19
+feature:
 ---
 基金大量加仓
 大盘逆转翻红

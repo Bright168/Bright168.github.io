@@ -1,12 +1,14 @@
 ---
-title: '2020-03-02 反转'
-date: 2020-03-02 19:24:54
-tags: ["大盘"]
-categories: "投资"
+title: 2020-03-02 反转
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: 940cb3ec
+date: 2020-03-02 19:24:54
+feature:
 ---
 全面反转
 科技股反转的慢了一点

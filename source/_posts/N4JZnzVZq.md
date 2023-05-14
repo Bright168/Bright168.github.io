@@ -1,12 +1,14 @@
 ---
-title: '2020-01-20 反弹'
-date: 2020-01-20 22:53:11
-tags: ["大盘"]
-categories: "投资"
+title: 2020-01-20 反弹
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: dcad632f
+date: 2020-01-20 22:53:11
+feature:
 ---
 像上次一样
 四个阴线后一个阳线

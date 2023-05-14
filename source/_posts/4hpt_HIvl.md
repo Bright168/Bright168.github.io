@@ -1,12 +1,14 @@
 ---
-title: '2020-01-15 调整'
-date: 2020-01-15 18:54:53
-tags: ["大盘"]
-categories: "投资"
+title: 2020-01-15 调整
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: ea41473b
+date: 2020-01-15 18:54:53
+feature:
 ---
 大盘直接下调
 换出了很多人

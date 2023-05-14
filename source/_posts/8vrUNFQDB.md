@@ -1,12 +1,14 @@
 ---
-title: '2020-01-10 汽车和地产'
-date: 2020-01-10 17:37:40
-tags: ["大盘"]
-categories: "投资"
+title: 2020-01-10 汽车和地产
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: '56222e24'
+date: 2020-01-10 17:37:40
+feature:
 ---
 汽车板块有资金小量进入已经两天了
 地产也稍微有启动迹象

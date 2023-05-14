@@ -1,12 +1,14 @@
 ---
-title: '2020-01-13 中小盘'
-date: 2020-01-13 21:34:26
-tags: ["大盘"]
-categories: "投资"
+title: 2020-01-13 中小盘
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: '43293896'
+date: 2020-01-13 21:34:26
+feature:
 ---
 感觉有大科技概念的中小盘有搞头
 已经拿出一部分资金准备动手

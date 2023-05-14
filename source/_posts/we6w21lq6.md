@@ -1,9 +1,11 @@
 ---
 title: 慈悲
-tags: ["生命"]
+tags:
+  - 生命
 id: '39'
 categories: 随想
 comments: false
+abbrlink: a1817c71
 date: 2022-12-02 17:36:48
 ---
 

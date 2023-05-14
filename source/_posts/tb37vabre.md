@@ -1,9 +1,11 @@
 ---
 title: 开始
-tags: ["生活"]
+tags:
+  - 生活
 id: '44'
 categories: 记录
 comments: false
+abbrlink: fb201a71
 date: 2023-01-04 14:40:18
 ---
 

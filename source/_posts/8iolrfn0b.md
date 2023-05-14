@@ -1,8 +1,10 @@
 ---
 title: 2023-05-11 危险
+tags:
+  - 大盘
+categories: 投资
+abbrlink: d95124b3
 date: 2023-05-11 12:23:28
-tags: ["大盘"]
-categories: "投资"
 ---
 
 # 危险了 #

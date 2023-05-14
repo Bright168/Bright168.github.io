@@ -1,12 +1,14 @@
 ---
-title: '2020-02-10 轮换'
-date: 2020-02-10 16:52:41
-tags: ["大盘"]
-categories: "投资"
+title: 2020-02-10 轮换
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: e744b104
+date: 2020-02-10 16:52:41
+feature:
 ---
 果然有点轮换的意思了
 医药不太行了

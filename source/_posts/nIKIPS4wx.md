@@ -1,12 +1,14 @@
 ---
-title: '2020-02-18 强势'
-date: 2020-02-18 18:24:28
-tags: ["大盘"]
-categories: "投资"
+title: 2020-02-18 强势
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: '44251450'
+date: 2020-02-18 18:24:28
+feature:
 ---
 强势整理，分化明显
 量能持续，牛市特征

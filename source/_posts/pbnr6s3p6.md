@@ -1,9 +1,11 @@
 ---
 title: 错误
-tags: ["生活"]
+tags:
+  - 生活
 id: '32'
 categories: 随想
 comments: false
+abbrlink: ac405b50
 date: 2022-11-14 21:15:02
 ---
 

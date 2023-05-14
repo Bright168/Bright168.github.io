@@ -1,12 +1,14 @@
 ---
-title: '2020-02-13 释放'
-date: 2020-02-13 16:06:08
-tags: ["大盘"]
-categories: "投资"
+title: 2020-02-13 释放
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: e957085b
+date: 2020-02-13 16:06:08
+feature:
 ---
 涨了这么多
 不回调不合理

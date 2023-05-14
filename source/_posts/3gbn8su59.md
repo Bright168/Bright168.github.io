@@ -1,9 +1,11 @@
 ---
 title: 学习
-tags: ["生活"]
+tags:
+  - 生活
 id: '28'
 categories: 随想
 comments: false
+abbrlink: 5ac6f809
 date: 2022-11-10 12:39:28
 ---
 

@@ -1,12 +1,14 @@
 ---
-title: '2020-02-12 顶一下'
-date: 2020-02-12 19:04:47
-tags: ["大盘"]
-categories: "投资"
+title: 2020-02-12 顶一下
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: 92bac73a
+date: 2020-02-12 19:04:47
+feature:
 ---
 关键时刻
 总会有一个力量搞一下

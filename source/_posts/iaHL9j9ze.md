@@ -1,12 +1,14 @@
 ---
-title: '2020-02-19 犹豫'
-date: 2020-02-19 15:52:01
-tags: ["大盘"]
-categories: "投资"
+title: 2020-02-19 犹豫
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: d723ff1b
+date: 2020-02-19 15:52:01
+feature:
 ---
 犹豫了一天
 也是刺激的一天

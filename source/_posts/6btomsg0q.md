@@ -1,9 +1,11 @@
 ---
 title: 静默
-tags: ["生活"]
+tags:
+  - 生活
 id: '34'
 categories: 随想
 comments: false
+abbrlink: 3681214c
 date: 2022-11-22 02:05:23
 ---
 

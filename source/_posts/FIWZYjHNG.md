@@ -1,12 +1,14 @@
 ---
-title: '2020-02-11 衰竭'
-date: 2020-02-11 17:54:03
-tags: ["大盘"]
-categories: "投资"
+title: 2020-02-11 衰竭
+tags:
+  - 大盘
+categories: 投资
 published: true
 hideInList: false
-feature: 
 isTop: false
+abbrlink: 6c9b1f37
+date: 2020-02-11 17:54:03
+feature:
 ---
 强势的彻底不动了
 蓝筹有动的迹象

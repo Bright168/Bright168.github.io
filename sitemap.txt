@@ -1,5 +1,7 @@
 http://q96b.cn/link/index.html
 http://q96b.cn/tags/index.html
+http://q96b.cn/posts/3b4b656d.html
+http://q96b.cn/posts/2828c02d.html
 http://q96b.cn/posts/6c973e30.html
 http://q96b.cn/posts/169250a6.html
 http://q96b.cn/posts/fb201a71.html
@@ -11,6 +13,7 @@ http://q96b.cn/posts/ac405b50.html
 http://q96b.cn/posts/3681214c.html
 http://q96b.cn/posts/7e3e6b16.html
 http://q96b.cn/posts/a1817c71.html
+http://q96b.cn/posts/cd11ef95.html
 http://q96b.cn/posts/cc5b5ec5.html
 http://q96b.cn/posts/6e572724.html
 http://q96b.cn/posts/a2ebdc64.html
@@ -80,9 +83,7 @@ http://q96b.cn/posts/2e117b7d.html
 http://q96b.cn/posts/d95124b3.html
 http://q96b.cn/posts/dca887ac.html
 http://q96b.cn/categories/index.html
-http://q96b.cn/posts/3b4b656d.html
-http://q96b.cn/posts/2828c02d.html
-http://q96b.cn/posts/cd11ef95.html
+http://q96b.cn/posts/93b632fd.html
 http://q96b.cn/posts/61428197.html
 http://q96b.cn/posts/ea7ca7d.html
 http://q96b.cn/posts/8f8afde.html

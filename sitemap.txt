@@ -1,6 +1,5 @@
 http://q96b.cn/link/index.html
 http://q96b.cn/tags/index.html
-http://q96b.cn/categories/index.html
 http://q96b.cn/posts/3b4b656d.html
 http://q96b.cn/posts/2828c02d.html
 http://q96b.cn/posts/6c973e30.html
@@ -82,6 +81,8 @@ http://q96b.cn/posts/5decba6e.html
 http://q96b.cn/posts/2e117b7d.html
 http://q96b.cn/posts/d95124b3.html
 http://q96b.cn/posts/dca887ac.html
+http://q96b.cn/categories/index.html
+http://q96b.cn/posts/433f2da1.html
 http://q96b.cn/posts/9ae833c.html
 http://q96b.cn/posts/2be86de3.html
 http://q96b.cn/posts/de2aa4ae.html

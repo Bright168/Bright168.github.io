@@ -10,7 +10,7 @@
     "restart": "hexo clean && hexo generate && hexo server"
   },
   "hexo": {
-    "version": "7.1.0"
+    "version": "7.1.1"
   },
   "dependencies": {
     "hexo": "^7.1.1",

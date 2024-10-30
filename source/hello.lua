@@ -1,19 +1,28 @@
 MacroState = false
+RightState = false
 
 EnablePrimaryMouseButtonEvents(false)
+
 function OnEvent(event, arg)
+
     if 1 == 2 then
         OutputLogMessage("event %s. ", tostring(event))
         OutputLogMessage("arg %s.\n", tostring(arg))
     end
+
     -- 总开关
     if event == "MOUSE_BUTTON_PRESSED" and arg == 6 then
         MacroState = not MacroState
+        if not MacroState then
+            RightState = false
+        end
         OutputLogMessage("MacroState is pressed %s.\n", tostring(MacroState))
+        OutputLogMessage("RightState is pressed %s.\n", tostring(RightState))
     end
 
     -- 三连发
-    if event == "MOUSE_BUTTON_PRESSED" and arg == 8 and MacroState then
+    GoFire = true
+    if event == "MOUSE_BUTTON_PRESSED" and arg == 8 and MacroState and GoFire then
         GoFire = false
         PressMouseButton(1)
         OutputLogMessage("down\n")
@@ -37,7 +46,6 @@ function OnEvent(event, arg)
             OutputLogMessage("up\n")
             Sleep(math.random(160, 180))
         end
-
         GoFire = true
     end
 
@@ -77,8 +85,13 @@ function OnEvent(event, arg)
         ReleaseKey("lctrl")
     end
 
+    -- 瞬狙开关
+    if event == "MOUSE_BUTTON_PRESSED" and arg == 7 then
+        RightState = not RightState
+        OutputLogMessage("RightState is pressed %s.\n", tostring(RightState))
+    end
     -- 瞬狙
-    if event == "MOUSE_BUTTON_RELEASED" and arg == 2 and MacroState and 1 == 2 then
+    if event == "MOUSE_BUTTON_RELEASED" and arg == 2 and RightState then
         PressMouseButton(1)
         Sleep(math.random(20, 30))
         ReleaseMouseButton(1)
@@ -91,7 +104,6 @@ function OnEvent(event, arg)
         Sleep(math.random(9, 14))
         ReleaseKey("q")
         Sleep(math.random(9, 14))
-
     end
 
 end

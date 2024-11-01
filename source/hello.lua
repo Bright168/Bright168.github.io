@@ -16,6 +16,16 @@ function OnEvent(event, arg)
     -- 总开关
     if event == "MOUSE_BUTTON_PRESSED" and arg == 6 then
         MacroState = not MacroState
+        SwitchMode = MacroState
+        if SwitchMode then
+            PressKey("q")
+            Sleep(math.random(9, 14))
+            ReleaseKey("q")
+            Sleep(math.random(130, 160))
+            PressKey("q")
+            Sleep(math.random(9, 14))
+            ReleaseKey("q")
+        end
         -- EnablePrimaryMouseButtonEvents(MacroState)
         OutputLogMessage("MacroState is %s.\n", tostring(MacroState))
     end
@@ -32,25 +42,19 @@ function OnEvent(event, arg)
         GoFire1 = false
 
         PressMouseButton(1)
-        OutputLogMessage("down\n")
         Sleep(math.random(85, 100))
         ReleaseMouseButton(1)
-        OutputLogMessage("up\n")
         Sleep(math.random(105, 120))
 
         PressMouseButton(1)
-        OutputLogMessage("down\n")
         Sleep(math.random(26, 46))
         ReleaseMouseButton(1)
-        OutputLogMessage("up\n")
         Sleep(math.random(80, 95))
 
         if math.random(1, 2) == 1 then
             PressMouseButton(1)
-            OutputLogMessage("down\n")
             Sleep(math.random(27, 47))
             ReleaseMouseButton(1)
-            OutputLogMessage("up\n")
             Sleep(math.random(160, 180))
         end
         Sleep(math.random(160, 180))
@@ -63,24 +67,18 @@ function OnEvent(event, arg)
         GoFire2 = false
 
         PressMouseButton(1)
-        OutputLogMessage("down\n")
         Sleep(math.random(25, 45))
         ReleaseMouseButton(1)
-        OutputLogMessage("up\n")
         Sleep(math.random(100, 120))
 
         PressMouseButton(1)
-        OutputLogMessage("down\n")
         Sleep(math.random(25, 45))
         ReleaseMouseButton(1)
-        OutputLogMessage("up\n")
         Sleep(math.random(105, 125))
 
         PressMouseButton(1)
-        OutputLogMessage("down\n")
         Sleep(math.random(25, 45))
         ReleaseMouseButton(1)
-        OutputLogMessage("up\n")
         Sleep(math.random(110, 130))
 
         GoFire2 = true
@@ -141,7 +139,6 @@ function OnEvent(event, arg)
     -- 鬼跳
     if event == "MOUSE_BUTTON_PRESSED" and arg == 10 and MacroState then
         Times = 0
-        OutputLogMessage("jump\n")
         PressKey("spacebar")
         Sleep(math.random(15, 25))
         ReleaseKey("spacebar")

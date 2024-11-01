@@ -1,5 +1,8 @@
+-- 总开关
 MacroState = false
-RightState = false
+
+-- 模式切换
+SwitchMode = true
 
 EnablePrimaryMouseButtonEvents(false)
 
@@ -13,17 +16,21 @@ function OnEvent(event, arg)
     -- 总开关
     if event == "MOUSE_BUTTON_PRESSED" and arg == 6 then
         MacroState = not MacroState
-        if not MacroState then
-            RightState = false
-        end
-        OutputLogMessage("MacroState is pressed %s.\n", tostring(MacroState))
-        OutputLogMessage("RightState is pressed %s.\n", tostring(RightState))
+        -- EnablePrimaryMouseButtonEvents(MacroState)
+        OutputLogMessage("MacroState is %s.\n", tostring(MacroState))
     end
 
-    -- 三连发
-    GoFire = true
-    if event == "MOUSE_BUTTON_PRESSED" and arg == 8 and MacroState and GoFire then
-        GoFire = false
+    -- 模式切换
+    if event == "MOUSE_BUTTON_PRESSED" and arg == 7 then
+        SwitchMode = not SwitchMode
+        OutputLogMessage("SwitchMode is %s.\n", tostring(SwitchMode))
+    end
+
+    -- 连发
+    GoFire1 = true
+    if event == "MOUSE_BUTTON_PRESSED" and arg == 8 and MacroState and SwitchMode and GoFire1 and 1 == 1 then
+        GoFire1 = false
+
         PressMouseButton(1)
         OutputLogMessage("down\n")
         Sleep(math.random(85, 100))
@@ -46,7 +53,73 @@ function OnEvent(event, arg)
             OutputLogMessage("up\n")
             Sleep(math.random(160, 180))
         end
-        GoFire = true
+        Sleep(math.random(160, 180))
+        GoFire1 = true
+    end
+
+    -- 速点
+    GoFire2 = true
+    if event == "MOUSE_BUTTON_PRESSED" and arg == 8 and MacroState and SwitchMode and GoFire2 and 1 == 2 then
+        GoFire2 = false
+
+        PressMouseButton(1)
+        OutputLogMessage("down\n")
+        Sleep(math.random(25, 45))
+        ReleaseMouseButton(1)
+        OutputLogMessage("up\n")
+        Sleep(math.random(100, 120))
+
+        PressMouseButton(1)
+        OutputLogMessage("down\n")
+        Sleep(math.random(25, 45))
+        ReleaseMouseButton(1)
+        OutputLogMessage("up\n")
+        Sleep(math.random(105, 125))
+
+        PressMouseButton(1)
+        OutputLogMessage("down\n")
+        Sleep(math.random(25, 45))
+        ReleaseMouseButton(1)
+        OutputLogMessage("up\n")
+        Sleep(math.random(110, 130))
+
+        GoFire2 = true
+    end
+
+    -- 瞬狙
+    if event == "MOUSE_BUTTON_PRESSED" and arg == 8 and MacroState and not SwitchMode then
+        PressMouseButton(3)
+        Sleep(math.random(35, 50))
+        ReleaseMouseButton(3)
+        Sleep(math.random(25, 40))
+        PressMouseButton(1)
+        Sleep(math.random(25, 40))
+        ReleaseMouseButton(1)
+        -- 切枪
+        Sleep(math.random(10, 15))
+        PressKey("q")
+        Sleep(math.random(9, 14))
+        ReleaseKey("q")
+        Sleep(math.random(130, 160))
+        PressKey("q")
+        Sleep(math.random(9, 14))
+        ReleaseKey("q")
+        Sleep(math.random(9, 14))
+    end
+    -- 右键狙
+    if event == "MOUSE_BUTTON_RELEASED" and arg == 2 and MacroState and not SwitchMode then
+        PressMouseButton(1)
+        Sleep(math.random(20, 30))
+        ReleaseMouseButton(1)
+        -- 切枪
+        PressKey("q")
+        Sleep(math.random(9, 14))
+        ReleaseKey("q")
+        Sleep(math.random(130, 160))
+        PressKey("q")
+        Sleep(math.random(9, 14))
+        ReleaseKey("q")
+        Sleep(math.random(9, 14))
     end
 
     -- 跳箱子
@@ -83,27 +156,6 @@ function OnEvent(event, arg)
             Sleep(math.random(15, 25))
         end
         ReleaseKey("lctrl")
-    end
-
-    -- 瞬狙开关
-    if event == "MOUSE_BUTTON_PRESSED" and arg == 7 then
-        RightState = not RightState
-        OutputLogMessage("RightState is pressed %s.\n", tostring(RightState))
-    end
-    -- 瞬狙
-    if event == "MOUSE_BUTTON_RELEASED" and arg == 2 and RightState then
-        PressMouseButton(1)
-        Sleep(math.random(20, 30))
-        ReleaseMouseButton(1)
-        -- 切枪
-        PressKey("q")
-        Sleep(math.random(9, 14))
-        ReleaseKey("q")
-        Sleep(math.random(130, 160))
-        PressKey("q")
-        Sleep(math.random(9, 14))
-        ReleaseKey("q")
-        Sleep(math.random(9, 14))
     end
 
 end

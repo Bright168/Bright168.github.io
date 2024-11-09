@@ -2,7 +2,10 @@
 MacroState = false
 
 -- 模式切换
-SwitchMode = true
+SwitchMode = false
+
+-- 速点
+GoFire = true
 
 EnablePrimaryMouseButtonEvents(false)
 
@@ -16,8 +19,8 @@ function OnEvent(event, arg)
     -- 总开关
     if event == "MOUSE_BUTTON_PRESSED" and arg == 6 then
         MacroState = not MacroState
-        SwitchMode = MacroState
-        if SwitchMode then
+        SwitchMode = false
+        if MacroState then
             PressKey("q")
             Sleep(math.random(9, 14))
             ReleaseKey("q")
@@ -28,64 +31,40 @@ function OnEvent(event, arg)
         end
         -- EnablePrimaryMouseButtonEvents(MacroState)
         OutputLogMessage("MacroState is %s.\n", tostring(MacroState))
+        OutputLogMessage("SwitchMode is %s.\n", tostring(SwitchMode))
     end
 
     -- 模式切换
     if event == "MOUSE_BUTTON_PRESSED" and arg == 7 then
         SwitchMode = not SwitchMode
+        if MacroState and SwitchMode then
+            PressKey("q")
+            Sleep(math.random(9, 14))
+            ReleaseKey("q")
+            Sleep(math.random(130, 160))
+            PressKey("q")
+            Sleep(math.random(9, 14))
+            ReleaseKey("q")
+        end
         OutputLogMessage("SwitchMode is %s.\n", tostring(SwitchMode))
     end
 
-    -- 连发
-    GoFire1 = true
-    if event == "MOUSE_BUTTON_PRESSED" and arg == 8 and MacroState and SwitchMode and GoFire1 and 1 == 1 then
-        GoFire1 = false
-
-        PressMouseButton(1)
-        Sleep(math.random(85, 100))
-        ReleaseMouseButton(1)
-        Sleep(math.random(105, 120))
-
-        PressMouseButton(1)
-        Sleep(math.random(26, 46))
-        ReleaseMouseButton(1)
-        Sleep(math.random(80, 95))
-
-        if math.random(1, 2) == 1 then
-            PressMouseButton(1)
-            Sleep(math.random(27, 47))
-            ReleaseMouseButton(1)
-            Sleep(math.random(160, 180))
-        end
-        Sleep(math.random(160, 180))
-        GoFire1 = true
-    end
-
     -- 速点
-    GoFire2 = true
-    if event == "MOUSE_BUTTON_PRESSED" and arg == 8 and MacroState and SwitchMode and GoFire2 and 1 == 2 then
-        GoFire2 = false
-
-        PressMouseButton(1)
-        Sleep(math.random(25, 45))
-        ReleaseMouseButton(1)
-        Sleep(math.random(100, 120))
-
-        PressMouseButton(1)
-        Sleep(math.random(25, 45))
-        ReleaseMouseButton(1)
-        Sleep(math.random(105, 125))
-
-        PressMouseButton(1)
-        Sleep(math.random(25, 45))
-        ReleaseMouseButton(1)
-        Sleep(math.random(110, 130))
-
-        GoFire2 = true
+    if event == "MOUSE_BUTTON_PRESSED" and arg == 8 and MacroState and not SwitchMode and GoFire then
+        GoFire = false
+        Times = 0
+        while (Times < 3) do
+            Times = Times + 1
+            PressMouseButton(1)
+            Sleep(math.random(20, 40))
+            ReleaseMouseButton(1)
+            Sleep(math.random(80, 100))
+        end
+        GoFire = true
     end
 
     -- 瞬狙
-    if event == "MOUSE_BUTTON_PRESSED" and arg == 8 and MacroState and not SwitchMode then
+    if event == "MOUSE_BUTTON_PRESSED" and arg == 8 and MacroState and SwitchMode then
         PressMouseButton(3)
         Sleep(math.random(35, 50))
         ReleaseMouseButton(3)
@@ -105,7 +84,7 @@ function OnEvent(event, arg)
         Sleep(math.random(9, 14))
     end
     -- 右键狙
-    if event == "MOUSE_BUTTON_RELEASED" and arg == 2 and MacroState and not SwitchMode then
+    if event == "MOUSE_BUTTON_RELEASED" and arg == 2 and MacroState and SwitchMode then
         PressMouseButton(1)
         Sleep(math.random(20, 30))
         ReleaseMouseButton(1)
@@ -122,7 +101,6 @@ function OnEvent(event, arg)
 
     -- 跳箱子
     if event == "MOUSE_BUTTON_PRESSED" and arg == 11 and MacroState then
-        OutputLogMessage("jump\n")
         PressKey("spacebar")
         Sleep(math.random(267, 275))
         ReleaseKey("spacebar")

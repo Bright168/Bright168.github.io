@@ -5,10 +5,14 @@
       link: http://q96b.cn/
       avatar: /images/avatar.jpg
       descr: q96b.cn
-    - name: ZZZZZ
+    - name: BBBBB
       link: https://blog.bright168.win/
       avatar: /images/avatar.jpg
       descr: bright168.win
+    - name: CCCCC
+      link: https://blog.1668991.xyz/
+      avatar: /images/avatar.jpg
+      descr: 1668991.xyz
 - class_name: 友情鏈接
   class_desc: 那些人，那些事
   link_list:

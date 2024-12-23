@@ -5,4 +5,5 @@
 
 ```shell
 set HTTP_PROXY=socks5://127.0.0.1:10081
-hesx```
+set HTTPS_PROXY=socks5://127.0.0.1:10080
+```

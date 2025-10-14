@@ -11,20 +11,16 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js 16.x
-        uses: actions/setup-node@v2
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 获取完整的提交历史
+      - name: Use Node.js 22.x
+        uses: actions/setup-node@v4
         with:
           node-version: "22.13"
-      - name: Cache NPM dependencies
-        uses: actions/cache@v3
-        with:
-          path: node_modules
-          key: ${{ runner.OS }}-npm-cache
-          restore-keys: |
-            ${{ runner.OS }}-npm-cache
+          cache: 'npm' # 使用Node.js官方缓存机制
       - name: Install Dependencies
-        run: npm install
+        run: npm ci # 使用ci命令确保依赖精确匹配
       - name: Build
         run: npm run build
       - name: Deploy
